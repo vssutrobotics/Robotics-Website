@@ -1065,9 +1065,9 @@ section.footer-w3-agileits {
 	padding:50px 0;
 	background-color:#000;
 }
-section.footer-w3-agileits ul.w3-agile {
+/* section.footer-w3-agileits ul.w3-agile {
 
-}
+} */
 section.footer-w3-agileits ul.w3-agile li {
 	display:inline;
 }
@@ -1392,7 +1392,7 @@ ul.social-icons2 {
 .demo > li img {
     width: 160px;
 }
-}
+
 
 @media (max-width:900px) {
 	.overlay p {
