@@ -6,7 +6,8 @@ $(document).ready(function(){
         
         if (w > 500 && w <900) {
           $(".demo a").css("left" , "46%");
-          devpos=800;
+          alert(w)
+          devpos=900;
         }
   
         else if(w <= 500)
