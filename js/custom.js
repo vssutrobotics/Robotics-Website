@@ -12,8 +12,7 @@ $(document).ready(function(){
         else if(w <= 600)
         {
             $(".demo a").css("left" , "42%");
-            devpos=580;
-            alert(w);    	
+            devpos=580;   	
         }
         else
         {
