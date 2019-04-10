@@ -1,3 +1,15 @@
 a.logo:hover,a.logo:focus{
     color: white;   
 }
+
+.youtube{
+    -webkit-box-shadow: 0px 0px 9px 0px rgba(242,242,242,1);
+    -moz-box-shadow: 0px 0px 9px 0px rgba(242,242,242,1);
+    box-shadow: 0px 0px 9px 0px rgba(242,242,242,1);
+}
+
+.navbar{
+    -webkit-box-shadow: 0px 5px 18px -5px rgba(3,3,3,1);
+    -moz-box-shadow: 0px 5px 18px -5px rgba(3,3,3,1);
+    box-shadow: 0px 5px 18px -5px rgba(3,3,3,1);
+}
