@@ -44,7 +44,8 @@
 
 .og-expander {
 	position: absolute;
-	background-color: rgba(242,242,242,.1);
+	/* background-color: rgba(242,242,242,.1); */
+	background-color: black;
 	top: auto;
 	left: 0;
 	width: 100%;
