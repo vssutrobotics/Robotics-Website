@@ -221,7 +221,7 @@ ul.nav.navbar-nav li {
 }
 .navbar-inverse {
     background-color: transparent;
-    border-color: transparent;
+	border-color: transparent;
 }
 .cl-effect-7 a::before,
 .cl-effect-7 a::after {
