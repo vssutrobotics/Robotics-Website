@@ -6,14 +6,14 @@ $(document).ready(function(){
         
         if (w > 600 && w <900) {
           $(".demo a").css("left" , "46%");
-          alert(w)
-          devpos=910;
+          alert("Done")
+          devpos=920;
         }
   
         else if(w <= 600)
         {
             $(".demo a").css("left" , "42%");
-            devpos=500;
+            devpos=550;
             alert(w);    	
         }
         else
