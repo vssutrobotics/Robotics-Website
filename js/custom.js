@@ -14,12 +14,11 @@ $(document).ready(function(){
         
         if (w > 500 && w <900) {
           $(".demo a").css("left" , "46%");
-          alert(w);
         }
   
         else if(w <= 500)
         {
-            $(".demo a").css("left" , "43%");    	
+            $(".demo a").css("left" , "42%");    	
         }
         else
         {
