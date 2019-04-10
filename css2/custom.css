@@ -13,3 +13,12 @@ a.logo:hover,a.logo:focus{
     -moz-box-shadow: 0px 5px 18px -5px rgba(3,3,3,1);
     box-shadow: 0px 5px 18px -5px rgba(3,3,3,1);
 }
+
+#about,#our-team,#contact-us{
+    background-color: black !important;
+}
+
+.form-control,contact-form{
+    background-color: #2f383d !important;
+}
+
