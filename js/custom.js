@@ -4,13 +4,13 @@ $(document).ready(function(){
     $(window).width(function(){
         var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
         
-        if (w > 500 && w <900) {
+        if (w > 600 && w <900) {
           $(".demo a").css("left" , "46%");
           alert(w)
-          devpos=900;
+          devpos=910;
         }
   
-        else if(w <= 500)
+        else if(w <= 600)
         {
             $(".demo a").css("left" , "42%");
             devpos=500;
